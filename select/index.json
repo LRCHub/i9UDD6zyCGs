@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Those Eyes",
+  "base_artist": "New West",
+  "createdAt": "2026-02-19T13:33:55.813394Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Mama's Never Seen Those Eyes",
+      "artist": "The Forester Sisters",
+      "has_synced": true,
+      "path": "select/01_Mama's_Never_Seen_Those_Eyes_The_Forester_Sisters.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "See Those Eyes",
+      "artist": "Altered Images",
+      "has_synced": true,
+      "path": "select/02_See_Those_Eyes_Altered_Images.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "You Wear Those Eyes",
+      "artist": "The Cars",
+      "has_synced": true,
+      "path": "select/03_You_Wear_Those_Eyes_The_Cars.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Behind Those Eyes",
+      "artist": "3 Doors Down",
+      "has_synced": true,
+      "path": "select/04_Behind_Those_Eyes_3_Doors_Down.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "What Do You Want to Make Those Eyes At Me For?",
+      "artist": "Emile Ford & The Checkmates",
+      "has_synced": true,
+      "path": "select/05_What_Do_You_Want_to_Make_Those_Eyes_At_Me_For_Emile_Ford_&_The_Checkmates.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "What Do You Want To Make Those Eyes At Me For",
+      "artist": "Emile Ford & the Checkmates",
+      "has_synced": true,
+      "path": "select/06_What_Do_You_Want_To_Make_Those_Eyes_At_Me_For_Emile_Ford_&_the_Checkmates.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Don't Give Me Those Eyes",
+      "artist": "James Blunt",
+      "has_synced": true,
+      "path": "select/07_Don't_Give_Me_Those_Eyes_James_Blunt.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Don't Give Me Those Eyes",
+      "artist": "James Blunt",
+      "has_synced": true,
+      "path": "select/08_Don't_Give_Me_Those_Eyes_James_Blunt.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Behind Those Eyes",
+      "artist": "3 Doors Down",
+      "has_synced": true,
+      "path": "select/09_Behind_Those_Eyes_3_Doors_Down.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Damn Those Eyes",
+      "artist": "Kane",
+      "has_synced": true,
+      "path": "select/10_Damn_Those_Eyes_Kane.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Damn Those Eyes",
+      "artist": "Kane",
+      "has_synced": false,
+      "path": "select/11_Damn_Those_Eyes_Kane.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "What Do You Want to Make Those Eyes at Me For",
+      "artist": "Shakin' Stevens",
+      "has_synced": false,
+      "path": "select/12_What_Do_You_Want_to_Make_Those_Eyes_at_Me_For_Shakin'_Stevens.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Those Eyes",
+      "artist": "New West",
+      "has_synced": false,
+      "path": "select/pl_01_Those_Eyes_New_West.txt"
+    }
+  ]
+}
